@@ -1,0 +1,10 @@
+Lab: Gaussian Noise Denoising Comparison
+
+Noise sigma = 0.040000
+
+Method, MSE, PSNR(dB), SSIM
+Noisy, 0.001536, 28.1354, 0.6319
+Wiener, 0.000612, 32.1347, 0.8827
+AI, 0.000544, 32.6450, 0.8999
+Mean3x3, 0.002684, 25.7126, 0.7826
+Median3x3, 0.002247, 26.4837, 0.7616
